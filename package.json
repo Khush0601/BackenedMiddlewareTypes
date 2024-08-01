@@ -1,0 +1,14 @@
+{
+  "name": "backenedmiddlewaretypes",
+  "version": "1.0.0",
+  "description": "middleware Types",
+  "main": "cd..",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "khushboo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
